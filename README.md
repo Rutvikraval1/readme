@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@rutvikraval5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rutvikraval5" height="30" width="40" /></a>
+<a href="https://twitter.com/@rutvikraval5" target="blank"><img align="center" src="https://icons8.com/icon/13963/twitter" alt="@rutvikraval5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rutvik-raval-04617b199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutvik-raval-04617b199" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@rutvikraval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@rutvikraval" height="30" width="40" /></a>
 <a href="https://discord.gg/Rutvik#5440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rutvik#5440" height="30" width="40" /></a>
