@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items:center">
-<a href="https://twitter.com/rutvikraval5/" target="blank" style="margin-left:20px"></a>
+<a href="https://twitter.com/rutvikraval5/" target="blank" style="margin-left:20px"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-color-icon.png" alt="Rutvik Raval" height="40" width="40"></a>
 <a href="https://www.linkedin.com/in/rutvik-raval-04617b199/" target="blank" style="margin-left:20px"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-color-icon.png" alt="Rutvik Raval" height="40" width="40"></a>
 
 </p>
